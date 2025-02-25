@@ -18,7 +18,7 @@ Customer表:
 ```
 SELECT name FROM Customer WHERE referee_id != 2;
 ```
-###錯誤原因
+### 錯誤原因
 忽略了NULL值的特殊處理
 在SQL中NULL不等於任何值，甚至不等於NULL自己
 WHERE referee_id != 2 不會匹配referee_id為NULL的記錄
