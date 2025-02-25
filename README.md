@@ -1,2 +1,8 @@
 # SQL-LeetCode-Notes
-My learning notes for LeetCode SQL
+# LeetCode SQL學習筆記
+
+這個專案記錄我在LeetCode上學習SQL的歷程、常見錯誤和解題思路。
+
+## SQL 50
+
+## Curated SQL 70 
